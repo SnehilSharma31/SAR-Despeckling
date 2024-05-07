@@ -40,8 +40,8 @@ Synthetic Aperture Radar (SAR) images frequently face a disturbance called speck
   <a href="https://www.w3schools.com/python/numpy"> <img src="https://img.icons8.com/color/numpy" alt="Numpy" /></a>
   <a href="https://www.tutorialspoint.com/keras/index.htm"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="Keras" width="64" height="64" /></a>
   <a href="https://www.w3schools.com/python/matplotlib_intro"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png" alt="Matplotlib" width="64" height="64" /></a>
-  <a href="https://scikit-image.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="Scikit-image" width="64" height="34" /></a>
-  <a href="https://www.tutorialspoint.com/tensorflow/index.htm"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="64" height="34" /></a>
+  <a href="https://scikit-image.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="Scikit-image" width="64" height="64" /></a>
+  <a href="https://www.tutorialspoint.com/tensorflow/index.htm"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="64" height="64" /></a>
   
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
